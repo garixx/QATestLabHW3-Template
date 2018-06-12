@@ -1,7 +1,7 @@
-The homework #3 of the QATestLab's "Fundamentals of Test Automation" course. <p>
+The homework #3 of the QATestLab's "Fundamentals of Test Automation" course. <br>
 Made from the bitbucket template.<p>
 
-Verified with Google Chrome x64 v.66.0.3359.181 <p>
+Verified with Google Chrome x64 v.66.0.3359.181 <br>
 Verified with Firefox Quantum x64 v.60.0.1 <br>
 Verified with Internet Explorer x32 v.11.2273.14393.0 <p>
 
